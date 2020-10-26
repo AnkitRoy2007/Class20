@@ -1,2 +1,2 @@
-# Class20
-This is my class 20. I learn collision algorithms in this class.
+# p5.play-boilerplate
+Boiler plate for p5.play
